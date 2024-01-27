@@ -1,4 +1,4 @@
-This tool allows you to use F210 digital microscope over WiFi. Writed in Delphi 7.
+This tool allows you to use F210 digital microscope over WiFi. Writed in Delphi 7. Thanks to <a href=https://github.com/czietz>Christian Zietz</a> for <a href=https://www.chzsoft.de/site/hardware/reverse-engineering-a-wifi-microscope/>research</a>.
 <h2>System Requirements</h2>
 <table>
 <tr><td>Operating system<td>Windows 7 or newer
